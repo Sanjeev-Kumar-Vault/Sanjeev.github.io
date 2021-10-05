@@ -1,0 +1,30 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background:url(header.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size:  cover;
+  background-size: cover;
+}
+h1{
+
+  color: #e2bddb;
+
+}
+.btn1{
+  text-transform: uppercase;
+  border-radius: 300px ;
+  font-weight: 700;
+}
+hr
+{
+  border-color: whitesmoke;
+  border-width: 2px;
+  max-width: 85px;
+}
+.buffer{
+  height: 220px;
+}
